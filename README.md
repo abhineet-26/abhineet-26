@@ -1,51 +1,30 @@
-# 👋 Hi, I'm Abhineet!
+# Hi there 👋, Welcome!
 
-### 🚀 Aspiring Software Engineer | Cloud & GenAI Specialist
-I am a B.Tech Computer Science and Engineering student at **C.V.Raman Global University** with a current GPA of **8.16/10.0**.I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20my%20name%20is%20Abhineet&fontSize=40&animation=fadeIn" />
+</p>
 
----
+Hello! 👋 My name is **Abhineet**. I am a **B.Tech Computer Science and Engineering** student at **C. V. Raman Global University, Bhubaneswar** (Class of 2028).
 
-### 🛠️ Technical Toolkit
+I have a huge interest in **Cloud Architecture** and **Generative AI** as well as **DSA**! Currently in my **4th semester**, I am focusing on architecting low-latency, scalable systems and mastering complex algorithms.
 
-* **Languages:** C++, Python, SQL, JavaScript (ES6+), HTML5, CSS3, C.
-* **Frontend & Design:** React.js, Vite, Tailwind CSS, Zustand, UI/UX (Figma).
-* **Backend & Cloud:** FastAPI (Asynchronous), Flask, GCP (GKE, Compute Engine), Firebase.
-* **AI & Databases:** Generative AI (Gemini 1.5 Flash, RAG), MySQL, PostgreSQL, Cloud Firestore.
-* **Fundamentals:** Data Structures & Algorithms (DSA), OOPs, Operating Systems, Networking.
+Currently a **Core Member** at **Coding Club CGU**, where I lead technical engagement and mentorship. I love participating in high-impact competitions like the **Google Solution Challenge** and national-level hackathons!
 
----
+**Skills:**
+Cloud Computing | Full-Stack Development | AI/ML Development
 
-### 🌟 Key Achievements
+**Tools:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,fastapi,flask,mysql,postgres,gcp,firebase,git,figma" />
+</p>
 
-* **CodeClash National Rank:** Secured **Rank 36 out of 4,930+** participants in the August Arena (Top 1%).
-* **Google Cloud Legend Tier:** Achieved elite status in the Google Cloud Arcade Facilitator Program.
-* **Leadership:** Core Member of **Coding Club CGU** , where I have curated daily DSA quizzes and improved social engagement of the club.
-* **Certifications:** Nxtwave Certified AI for students and Google Solution Challenge Certificate of Achievement.
+* 🔭 I’m currently working on **UrbanMind AI**, a real-time civic intelligence platform using Gemini 1.5 Flash.
+* 🌱 I’m currently learning **Advanced Cloud Architecting** and **Retrieval-Augmented Generation (RAG)**.
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhineet-ai-dev) or via [Email](mailto:abhi040307@gmail.com).
+* 💬 Pronouns: He/Him
+* ⚡ Fun fact: I am a **Google Cloud Legend Tier** achiever and ranked **36th out of 4,930+** in the CodeClash national assessment.
 
----
-
-### 📂 Featured Projects
-
-* **UrbanMind AI:** A real-time civic intelligence platform utilizing **FastAPI**, **React**, and **Gemini 1.5 Flash**.
-    * Achieved a **0.8s response time** for image classification (40% improvement over baseline).
-    * Integrated Pydantic for **100% deterministic reporting** to municipal systems.
-* **Emergix:** A medical resource management system built with **Flask** and **MySQL**.
-    * Reduced patient intake processing time by **50%** via automated assignment logic.
-    * Minimized critical medical supply shortages by **20%** through real-time monitoring.
-
----
-
-### 📈 GitHub Stats
-
-![Abhineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhineet-26&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhineet-26&layout=compact&theme=radical)
-
----
-
-### 🤝 Connect with Me
-
-* ]**LinkedIn:** [linkedin.com/in/abhineet-ai-dev](https://www.linkedin.com/in/abhineet-ai-dev) 
-* **Email:** [abhi040307@gmail.com](mailto:abhi040307@gmail.com) 
-* **Status:** Actively seeking **Summer 2026 Internships**.
-
-*"Always learning, always building."*
+<p align="left">
+  <a href="https://github.com/abhineet-26"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhineet-ai-dev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
