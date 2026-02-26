@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 <p align="left">
-I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C. V. Raman Global University**, Bhubaneswar (Class of 2028). With a current **GPA of 8.16**, I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**.
+I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C. V. Raman Global University**, Bhubaneswar. With a current **GPA of 8.16**, I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**.
 
 Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**. In this role, I have mentored over 40+ members in DSA and OOPs concepts and authored technical assets that increased campus event participation by 25%. I am passionate about crafting seamless user experiences and building robust backends powered by AI models.
 </p>
@@ -52,15 +52,4 @@ Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CG
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-</p>
-
-<br/>
-<h2 align="left">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=410 src="https://github-readme-stats.vercel.app/api?username=abhineet-26&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhineet-26&layout=compact&theme=tokyonight&border_radius=10" alt="top langs" />
-</div>
+  <a href="https://
