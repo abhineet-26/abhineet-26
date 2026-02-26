@@ -19,7 +19,7 @@ I am a performance-driven **Software Engineer** with a competitive mindset, curr
 [cite_start]Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**[cite: 57]. [cite_start]In this role, I have mentored over 40+ members in DSA and OOPs concepts and authored technical assets that increased campus event participation by 25%[cite: 60, 62]. [cite_start]My passion lies in building real-time intelligence platforms, such as **UrbanMind AI**, where I achieved 0.8s response times for image classification using Gemini 1.5 Flash[cite: 64, 67].
 </p>
 
-- [cite_start]🔭 I’m currently working on **UrbanMind AI**, a real-time civic intelligence platform[cite: 64].
+- [cite_start]🔭 I’m currently working on projects based on **Web and ML**[cite: 64].
 - [cite_start]🌱 I’m currently exploring **Advanced Cloud Architecting** and **Retrieval-Augmented Generation (RAG)**[cite: 81].
 - 👯 I’m looking to collaborate on **Open Source Cloud and AI projects**.
 - [cite_start]👨‍💻 My technical highlights are available at [linkedin.com/in/abhineet-ai-dev](https://www.linkedin.com/in/abhineet-ai-dev)[cite: 49].
