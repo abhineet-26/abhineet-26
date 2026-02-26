@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhineet-26/abhineet-26/main/image_7bf63a.jpg" alt="Abhineet Banner" width="100%" />
+  <img src="image_7bf63a.jpg" alt="Abhineet Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -14,24 +14,24 @@
 
 ## 🚀 About Me
 <p align="left">
-I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C. V. Raman Global University**, Bhubaneswar (Class of 2028). With a current **GPA of 8.16**, I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**.
+I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C. [cite_start]V. Raman Global University**, Bhubaneswar[cite: 24, 53, 54]. [cite_start]With a current **GPA of 8.16**, I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**[cite: 51, 56].
 
-Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**. In this role, I have mentored over 40+ members in DSA and OOPs concepts and curated technical assets that increased campus event participation by 25%. I am passionate about crafting seamless user experiences and building robust backends powered by AI models. I thrive on solving complex problems and am constantly pushing my limits in the ever-evolving world of computer science.
+[cite_start]Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**[cite: 36, 57]. [cite_start]In this role, I have mentored over 40+ members in DSA and OOPs concepts and curated technical assets that increased campus event participation by 25%[cite: 60, 62]. I am passionate about crafting seamless user experiences and building robust backends powered by AI models.
 </p>
 
 - 🔭 I’m currently working on **projects based on web and ML**
 
-- 🌱 I’m currently exploring **Advanced Cloud Architecting** and **Retrieval-Augmented Generation (RAG)**
+- [cite_start]🌱 I’m currently exploring **Advanced Cloud Architecting** and **Retrieval-Augmented Generation (RAG)** [cite: 81]
 
 - 👯 I’m looking to collaborate on **Open Source AI and Cloud initiatives**
 
-- 👨‍💻 All of my technical highlights are available at [linkedin.com/in/abhineet-ai-dev](https://www.linkedin.com/in/abhineet-ai-dev)
+- [cite_start]👨‍💻 My technical highlights are available at [linkedin.com/in/abhineet-ai-dev](https://www.linkedin.com/in/abhineet-ai-dev) [cite: 49]
 
-- 💬 Ask me about **FastAPI, React, and Google Cloud Platform**
+- [cite_start]💬 Ask me about **FastAPI, React, and Google Cloud Platform** [cite: 65, 79, 80]
 
-- 📫 How to reach me: **abhi040307@gmail.com**
+- [cite_start]📫 How to reach me: **abhi040307@gmail.com** [cite: 47]
 
-- ⚡ Fun fact: **I am a Google Cloud Legend Tier achiever and ranked 36th out of 4,930+ participants nationally**
+- [cite_start]⚡ Fun fact: **I am a Google Cloud Legend Tier achiever and ranked 36th out of 4,930+ participants nationally** [cite: 83, 84]
 
 <br/>
 
