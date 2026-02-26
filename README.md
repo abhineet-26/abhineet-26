@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="banner.png" alt="Abhineet Banner" width="100%" />
+  <img src="banner.jpeg" alt="Abhineet Banner" width="100%" />
 </p>
 
 <h1 align="center">
