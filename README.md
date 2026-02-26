@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=Abhineet&fontSize=70&fontColor=E58B58&desc=Software%20Engineer%20|%20Cloud%20Architect%20|%20AI%20Developer&descAlignY=65&descAlign=50" />
+  <img src="https://raw.githubusercontent.com/abhineet-26/abhineet-26/main/image_7bf63a.jpg" alt="Abhineet Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -14,18 +14,24 @@
 
 ## 🚀 About Me
 <p align="left">
-I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C. [cite_start]V. Raman Global University**, Bhubaneswar, where I maintain an **8.16 GPA**[cite: 53, 56]. [cite_start]I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**[cite: 51].
+I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C. V. Raman Global University**, Bhubaneswar (Class of 2028). With a current **GPA of 8.16**, I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**.
 
-[cite_start]Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**[cite: 57]. [cite_start]In this role, I have mentored over 40+ members in DSA and OOPs concepts and authored technical assets that increased campus event participation by 25%[cite: 60, 62]. [cite_start]My passion lies in building real-time intelligence platforms, such as **UrbanMind AI**, where I achieved 0.8s response times for image classification using Gemini 1.5 Flash[cite: 64, 67].
+Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**. In this role, I have mentored over 40+ members in DSA and OOPs concepts and curated technical assets that increased campus event participation by 25%. I am passionate about crafting seamless user experiences and building robust backends powered by AI models. I thrive on solving complex problems and am constantly pushing my limits in the ever-evolving world of computer science.
 </p>
 
-- [cite_start]🔭 I’m currently working on projects based on **Web and ML**[cite: 64].
-- [cite_start]🌱 I’m currently exploring **Advanced Cloud Architecting** and **Retrieval-Augmented Generation (RAG)**[cite: 81].
-- 👯 I’m looking to collaborate on **Open Source Cloud and AI projects**.
-- [cite_start]👨‍💻 My technical highlights are available at [linkedin.com/in/abhineet-ai-dev](https://www.linkedin.com/in/abhineet-ai-dev)[cite: 49].
-- [cite_start]💬 Ask me about **FastAPI, React, and Google Cloud Platform**[cite: 79, 80].
-- [cite_start]📫 How to reach me: **abhi040307@gmail.com**[cite: 47].
-- [cite_start]⚡ Fun fact: **I am a Google Cloud Legend Tier achiever and ranked 36th out of 4,930+ participants nationally**[cite: 83, 84].
+- 🔭 I’m currently working on **projects based on web and ML**
+
+- 🌱 I’m currently exploring **Advanced Cloud Architecting** and **Retrieval-Augmented Generation (RAG)**
+
+- 👯 I’m looking to collaborate on **Open Source AI and Cloud initiatives**
+
+- 👨‍💻 All of my technical highlights are available at [linkedin.com/in/abhineet-ai-dev](https://www.linkedin.com/in/abhineet-ai-dev)
+
+- 💬 Ask me about **FastAPI, React, and Google Cloud Platform**
+
+- 📫 How to reach me: **abhi040307@gmail.com**
+
+- ⚡ Fun fact: **I am a Google Cloud Legend Tier achiever and ranked 36th out of 4,930+ participants nationally**
 
 <br/>
 
