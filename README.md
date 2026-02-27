@@ -14,24 +14,24 @@
 
 ## 🚀 About Me
 <p align="left">
-I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C. [cite_start]V. Raman Global University**, Bhubaneswar[cite: 53, 54]. [cite_start]With a current **GPA of 8.16**, I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**[cite: 50, 51, 56].
+I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C.V. Raman Global University**, Bhubaneswar. With a current **GPA of 8.16**, I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**.
 
-[cite_start]Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**[cite: 57]. [cite_start]In this role, I have mentored over 40+ members in DSA and OOPs concepts and authored technical assets that increased campus event participation by 25%[cite: 60, 62]. I am passionate about crafting seamless user experiences and building robust backends powered by AI models.
+Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**.In this role, I have conducted short Daily Quizes in DSA and OOPs concepts and authored technical assets that increased campus event participation by 25%. I am passionate about crafting seamless user experiences and building robust backends powered by AI models.
 </p>
 
 - 🔭 I’m currently working on **projects based on web and ML**
 
-- [cite_start]🌱 I’m currently exploring **Advanced Cloud Architecting** and **Retrieval-Augmented Generation (RAG)** [cite: 81]
+- 🌱 I’m currently exploring **Advanced Cloud Architecting** and **Retrieval-Augmented Generation (RAG)** 
 
 - 👯 I’m looking to collaborate on **Open Source AI and Cloud initiatives**
 
-- [cite_start]👨‍💻 My technical highlights are available at [linkedin.com/in/abhineet-ai-dev](https://www.linkedin.com/in/abhineet-ai-dev) 
+- 👨‍💻 My technical highlights are available at [linkedin.com/in/abhineet-ai-dev](https://www.linkedin.com/in/abhineet-ai-dev) 
 
-- [cite_start]💬 Ask me about **FastAPI, React, and Google Cloud Platform** [cite: 65, 79, 80]
+- 💬 Ask me about **FastAPI, React, and Google Cloud Platform**
 
-- [cite_start]📫 How to reach me: **abhi040307@gmail.com** 
+- 📫 How to reach me: **abhi040307@gmail.com** 
 
-- [cite_start]⚡ Fun fact: **I am a Google Cloud Legend Tier achiever and ranked 36th out of 4,930+ participants nationally** [cite: 83, 84]
+- ⚡ Fun fact: **I am a Google Cloud Legend Tier achiever and ranked 36th out of 4,930+ participants nationally** 
 
 <br/>
 
