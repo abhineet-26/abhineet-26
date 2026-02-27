@@ -14,6 +14,7 @@
 
 ## 🚀 About Me
 <p align="left">
+  
 I am a performance-driven **Software Engineer** with a competitive mindset, currently pursuing my **B.Tech in Computer Science and Engineering** at **C.V. Raman Global University**, Bhubaneswar. With a current **GPA of 8.16**, I specialize in architecting low-latency, scalable systems using **Generative AI** and **Cloud Architecture**.
 
 Beyond my academic studies, I serve as a **Core Member** of the **Coding Club CGU**.In this role, I have conducted short Daily Quizes in DSA and OOPs concepts and authored technical assets that increased campus event participation by 25%. I am passionate about crafting seamless user experiences and building robust backends powered by AI models.
